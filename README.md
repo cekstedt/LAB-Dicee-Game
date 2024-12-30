@@ -17,7 +17,7 @@ This is a solution to the [Dicee Game](https://www.udemy.com/course/the-complete
 
 ### The challenge
 
-"You're going to be using all of that knowledge that we learned about the DOM and JavaScript to create our very own dice game."
+"You're going to be using all of that knowledge that you learned about the DOM and JavaScript to create your very own dice game."
 
 ### Screenshot
 
@@ -45,7 +45,7 @@ git clone https://github.com/cekstedt/LAB-Dicee-Game.git
 cd LAB-Dicee-Game/
 ```
 
-This project contains javascript, so you must start a local web server to see it function. The following options will expose your `src/` folder to http://localhost:8000/ via Python or NodeJS, respectively.
+This project contains javascript, so you must start a local web server to see it function. The following options will serve your `src/` folder to http://localhost:8000/ via Python or NodeJS, respectively.
 
 ```
 python -m http.server 8000 -d ./src
